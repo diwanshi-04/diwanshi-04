@@ -6,7 +6,7 @@
 **👨🏻‍💻 &nbsp;About Me**
 
 💡 &nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm persuing my bachelor's degree in Computer Science and currently a Software Developer \
+🎓 &nbsp;I'm persuing my bachelor's degree in Computer Science  \
 🌱 &nbsp;I'm on track for learning more about Data Science, Data Management and Software Development.\
 ✍️ &nbsp;In my free time, I read Books, watch Media and write Blogs on medium https://medium.com/@diwanshipandey331 as side hustles.\
 
