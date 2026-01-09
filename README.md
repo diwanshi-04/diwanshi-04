@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=diwanshi-04&label=Profile%20views&color=0e75b6&style=flat" alt="diwanshi-04" />  
+</p>
+
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/diwanshi-04">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwanshi-04&layout=compact&theme=radical&&langs_count=8" />
